@@ -43,7 +43,7 @@
 	<wsdl:service name="BookService">
 		<wsdl:port name="BookServicePort" binding="tns:BookServiceSOAPBinding">
 			<soap:address
-				location="http://localhost:7101/Metro-JAX-WS-Top-Down-0.0.1-SNAPSHOT/services/BookService" />
+				location="http://localhost:7101/Metro-JAX-WS-Top-Down-1.0/services/BookService" />
 		</wsdl:port>
 	</wsdl:service>
 </wsdl:definitions>
